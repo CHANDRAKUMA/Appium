@@ -1,0 +1,13 @@
+{
+  "Frameworkfolder": "System.getProperty('user.dir')",
+  "DataProviderExcelFile": "file.xlsx",
+  "Screenshot": "Screenshots",
+  "Report":"Reports",
+  "Video":"Video",
+  "IOSDevice":"IOS Device name",
+  "IOSApp":".app",
+  "AndroidDevice":"Android Device name",
+  "AndroidApp":"Blockyard.apk",
+  "TestResources":"TestResources",
+  "TestData":"testdata"
+}
